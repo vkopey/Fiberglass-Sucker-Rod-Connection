@@ -1,2 +1,2 @@
 # Fiberglass-Sucker-Rod-Connection
-FEM model of fiberglass sucker rod connection
+Abaqus/CAE FEM model of fiberglass sucker rod connection
